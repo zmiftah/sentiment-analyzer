@@ -1,0 +1,6 @@
+gradio
+vaderSentiment
+langdetect
+deep-translator
+torch
+transformers
